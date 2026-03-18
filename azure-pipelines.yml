@@ -13,5 +13,5 @@ steps:
     echo See https://aka.ms/yaml
   displayName: 'stage-2'
 
-- script:  "welcome"
+- script:  echo "welcome"
   displayName: 'stage-3'
