@@ -15,3 +15,6 @@ steps:
 
 - script:  echo "welcome"
   displayName: 'stage-3'
+
+- script:  echo "hi, hello"
+  displayName: 'stage-4'
